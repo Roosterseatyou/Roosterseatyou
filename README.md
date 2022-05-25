@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Roosterseatyou
 - 👀 I’m interested in Minecraft Plugins, specifically for bukkit and its forks
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning Java, JS, and C#. Willing to dabble in Python too.
 - 📫 How to reach me Roosterseatyou#7538
 
 <!---
